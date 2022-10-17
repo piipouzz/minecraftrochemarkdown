@@ -43,8 +43,6 @@ coucou
 3. Point 3
 
 
-[ ] A
-[ ] B
-[ ] C
+[x] A [ ] B [ ] C
 
 This is `code`.
