@@ -46,3 +46,5 @@ coucou
 [ ] A
 [x] B
 [ ] C
+
+This is `code`.
