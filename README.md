@@ -48,3 +48,7 @@ coucou
 - [ ] C
 
 This is `code`.
+
+``This is all `code`.``
+
+Here is a [Link](https://example.com/ "Optional link title").
