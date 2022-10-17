@@ -20,3 +20,12 @@ Heading 1
 =
 Heading 2
 -
+
+>This is an **embedded section**.
+>The section continues here
+
+>This is another **embedded section**.
+This section also continues in the second like
+
+This line isn’t embedded any more. 
+
