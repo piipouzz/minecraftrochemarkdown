@@ -61,3 +61,8 @@ Here is a [Link](https://example.com/ "Optional link title").
 |--------|--------|
 |    A    |    B    |
 |    C    |    D    |
+
+You can easily place footnotes [^2] in the continuous text [^1].
+[^1]: Here you can find the text for the footnote.
+[^2]: **Footnotes** themselves can also be *formatted*.
+And these even include several lines.
