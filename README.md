@@ -52,3 +52,7 @@ This is `code`.
 ``This is all `code`.``
 
 Here is a [Link](https://example.com/ "Optional link title").
+
+<https://example.com>
+`https://example.com`
+![Here is an example](https://example.com/bild.jpg)
