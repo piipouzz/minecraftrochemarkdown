@@ -44,7 +44,7 @@ coucou
 
 
 [ ] A
-[x] B
+[ ] B
 [ ] C
 
 This is `code`.
