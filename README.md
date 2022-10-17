@@ -9,6 +9,8 @@ ___coucou___
 
 ~~This text is struckthrough.~~ This one isn’t.
 
+<u>some text</u>
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -66,3 +68,9 @@ You can easily place footnotes [^2] in the continuous text [^1].
 [^1]: Here you can find the text for the footnote.
 [^2]: **Footnotes** themselves can also be *formatted*.
 And these even include several lines.
+
+Here's an image of a drag racer in action:
+
+![Mi,nervet](oui.jpg)
+
+Move along.
